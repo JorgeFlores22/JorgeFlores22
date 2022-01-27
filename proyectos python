@@ -5,3 +5,10 @@ else: # si no (else) se imprime "aun no eres mayor de edad"
     print('AUN NO ERES MAYOR DE EDAD')
 
  
+numero = int(input('Escribe un número: '))
+if numero > 22: #si el numero es mayor a 22
+    print('Es mayor a 22')
+elif numero == 22: #si no el numero es igual(==) a 22
+    print('Es igual a 22')
+else: # si no es menor a 22
+    print('Es menor a 22')
