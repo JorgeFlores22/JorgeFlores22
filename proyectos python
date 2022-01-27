@@ -1,7 +1,7 @@
-# numero = int(input('Escribe tu edad: '))
-# if numero > 17: # si(if) la edad es mayor a 18 print "es mayor de edad"
-    # print('ERES MAYOR DE EDAD')
-#else: # si no (else) se imprime "aun no eres mayor de edad"
-    #print('AUN NO ERES MAYOR DE EDAD')
-    
+numero = int(input('Escribe tu edad: '))
+if numero > 17: # si(if) la edad es mayor a 18 print "es mayor de edad"
+    print('ERES MAYOR DE EDAD')
+else: # si no (else) se imprime "aun no eres mayor de edad"
+    print('AUN NO ERES MAYOR DE EDAD')
+
  
